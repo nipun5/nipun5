@@ -4,13 +4,13 @@ Hey! :wave:
 
 <p>
   <a href="https://twitter.com/NipunJa03828799">
-    <img src="https://img.shields.io/badge/-@Anshumaniac12-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Anshumaniac12">
+    <img src="https://img.shields.io/badge/-@Anshumaniac12-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NipunJa03828799">
    <a/>
   <a href="https://www.linkedin.com/in/nipunjain5/">
-    <img src="https://img.shields.io/badge/-anshumanv12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshumanv12/">
+    <img src="https://img.shields.io/badge/-anshumanv12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nipunjain5/">
   <a/>
    <a href="mailto:nipun18058@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/-me@anshumanv.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@anshumanv.dev">
+    <img src="https://img.shields.io/badge/-me@anshumanv.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nipun18058@iiitd.ac.in">
    <a/>
 </p>
     
